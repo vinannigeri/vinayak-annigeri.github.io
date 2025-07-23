@@ -11,7 +11,7 @@ redirect_from:
 
 
 
-<img src="/images/reading.png" alt="A BOY STUDYING" style="float: right; width: 300px;" />
+![A BOY STUDYING](/images/reading.png)
 
 
 👨🏻‍💻 I have completed my B.E. in Computer Science and Engineering from Shri Dharmasthala Manjunatheshwara College of Engineering & Technology, Dharwad. 
