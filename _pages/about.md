@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-![Illustration of combining vision and language modalities] (/images/HOMEIMG.png){: .align-right width="300px"}
+(![alt text](../images/HOMEIMG.png)){: .align-right width="300px"}
 👨🏻‍💻 I have completed my B.E. in Computer Science and Engineering from Shri Dharmasthala Manjunatheshwara College of Engineering & Technology, Dharwad. 
 
 🕵🏻 I am currently looking for a job and my interests include AI, Machine Learning, Deep Learning, and Data Science.
