@@ -13,7 +13,7 @@ title                    : "Vinayak Annigeri's HomePage"
 title_separator          : "-"
 name                     : &name "VINAYAK ANNIGERI"
 description              : &description "personal description"
-url                      : https://vinayak-annigeri.github.io/ #vinannigeri.github.io the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+url                      : https://vinannigeri.github.io/vinayak-annigeri.github.io/ #vinannigeri.github.io the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "vinannigeri/vinayak-annigeri.github.io"
 # If you are using a custom domain, set the `url` to your custom domain and
