@@ -13,7 +13,7 @@ title                    : "Vinayak Annigeri's HomePage"
 title_separator          : "-"
 name                     : &name "VINAYAK ANNIGERI"
 description              : &description "personal description"
-url                      : https://vinannigeri.github.io/vinayak-annigeri.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+url                      : https://vinannigeri.github.io/ #vinayak-annigeri.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -27,7 +27,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Be cool" # Short description of the author, e.g. "A brief description of the author."
   location         : "Dharwad, Karnataka" # Location of the author, e.g. "New York, NY"
-  employer         : "Shri Dharmasthala Manjunatheshwara College of Engineering & Technology, Dharwad" # Employer of the author, e.g. "University of California, Berkeley"
+  employer         : "SDMCET, Dharwad" # Employer of the author, e.g. "University of California, Berkeley"
   uri              : # URL
   email            : "vinayak.1annigeri@gmail.com" # Email address of the author, e.g. "
 
