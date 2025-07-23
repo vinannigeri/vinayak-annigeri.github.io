@@ -11,7 +11,8 @@ redirect_from:
 
 
 
-![BRAIN](/images/BR.jpeg){: .align-right width="300px"}
+<img src="../images/HOMEIMG.png" alt="My photo" width="300"/>
+
 👨🏻‍💻 I have completed my B.E. in Computer Science and Engineering from Shri Dharmasthala Manjunatheshwara College of Engineering & Technology, Dharwad. 
 
 🕵🏻 I am currently looking for a job and my interests include AI, Machine Learning, Deep Learning, and Data Science.
