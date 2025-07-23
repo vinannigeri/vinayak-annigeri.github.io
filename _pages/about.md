@@ -11,7 +11,7 @@ redirect_from:
 
 
 
-<img src="../images/HOMEIMG.png" alt="My photo" width="300"/>
+<img src="/images/HOMEIMG.png" alt="My photo" width="300"/>
 
 👨🏻‍💻 I have completed my B.E. in Computer Science and Engineering from Shri Dharmasthala Manjunatheshwara College of Engineering & Technology, Dharwad. 
 
